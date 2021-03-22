@@ -4,10 +4,10 @@ Insertion sort is that to compare and rearrange unordered elements by construct 
 - #### Processing(Default ascending order)
 example: 
 input = {4,3,2,1,5,6}
-	1. Set second element as a start point. key = 3. 
-	2. Contrast the starting element with the key element. Move the smaller element to the previous position.{3,4}
-	3. Set key = 2 , compare the first two elements and move the smaller element to the first position.{2,3,4}
-	4. the rest can be done in the same manner. 
+1. Set second element as a start point. key = 3. 
+2. Contrast the starting element with the key element. Move the smaller element to the previous position.{3,4}
+3. Set key = 2 , compare the first two elements and move the smaller element to the first position.{2,3,4}
+4. the rest can be done in the same manner. 
 	
  |Insertion Sort |
 |:---------------------|
