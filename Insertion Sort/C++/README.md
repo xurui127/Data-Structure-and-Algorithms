@@ -12,11 +12,11 @@ input = {4,3,2,1,5,6}
  |Insertion Sort |
 |:---------------------|
 |Original : { 4,3,2,1,5,6}|
-|i = 1 : { <font color=red>3</font>,<font color=red>4</font>,2,1,5,6 }|
-|i = 2 : { <font color=red>2</font>,<font color=red>3</font>,<font color=red>4</font>,1,5,6 }|
-|i = 3 : { <font color=red>1</font>,<font color=red>2</font>,<font color=red>3</font>,<font color=red>4</font>,5,6 }|
-|i = 4: { <font color=red>1</font>,<font color=red>2</font>,<font color=red>3</font>,<font color=red>4</font>,<font color=red>5</font>,6 }|
-|i = 5: { <font color=red>1</font>,<font color=red>2</font>,<font color=red>3</font>,<font color=red>4</font>,<font color=red>5</font>,<font color=red>6</font> }|
+|i = 1 : { **_3_**,**_4_**,2,1,5,6 }|
+|i = 2 : { **_2_**,**_3_**,**_4_**,1,5,6 }|
+|i = 3 : { **_1_**, **_2_**,**_3_**,**_4_**,5,6 }|
+|i = 4: { **_1_**, **_2_**,**_3_**,**_4_**,**_5_**,6 }|
+|i = 5: { **_1_**, **_2_**,**_3_**,**_4_**,**_5_**,**_6_**}|
 
 ```cpp
 void InsertionSort(int a[], int length)
