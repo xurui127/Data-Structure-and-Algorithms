@@ -8,7 +8,7 @@ Merge Sort is an algorithm that uses recursion and divide and conquer. But the d
 	
  |Merge Sort |
 |:---------------------|
-![avatar](\Image\MergeSort.png)
+![Image text](https://raw.githubusercontent.com/xurui127/Data-Structure-and-Algorithms/branch1/Merge%20Sort/Image/MergeSort.png)
 
 ```cpp
 void Merge(int A[], int left, int mid, int right) {
